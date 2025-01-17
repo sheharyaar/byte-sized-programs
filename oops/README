@@ -1,0 +1,11 @@
+1. Class is basically a blueprint that is used to create objects. It includes the member variables, functions, constructors and destructors.
+
+2. Object is a particular instance of a class.
+
+3.
+	Public : acessible everywhere
+	Private : accessible only by the member functions of the class
+	Protected : accessible to the member class + derived class (and not everywhere)
+
+4. Virtual function - function declared in a base class but overridden in derived class.
+	- used to acheive runtime polymorphism
