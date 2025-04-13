@@ -20,4 +20,4 @@ This repository contains standalone programs to demonstrate a feature or concept
    2. [multiple-return-values.go](./golang/multiple-return-values.go): demonstrates the use of multiple return values in Go.
    3. [struct-tags.go](./golang/struct-tags.go): demonstrates the use of struct tags in Go.
    4. [json-structs.go](./golang/json-structs.go): demonstrates the use of JSON structs in Go.
-   5. [happpens-before.go](./golang/happens-before.go): demonstrates the use of `happens-before` in Go.
+   5. [happpens-before.go](./golang/happens-before.go): demonstrates the concurrency concept of `happens-before` in Go.
