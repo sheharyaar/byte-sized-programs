@@ -1,6 +1,6 @@
 This repository contains standalone programs to demonstrate a feature or concept.
 
-| For assembly and systems programming concepts, refer to my [sheharyaar/systems-assembly](https://github.com/sheharyaar/systems-assembly) repository.
+> For assembly and systems programming concepts, refer to my [sheharyaar/systems-assembly](https://github.com/sheharyaar/systems-assembly) repository.
 
 ### List of Programs
 
